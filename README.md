@@ -6,6 +6,8 @@
 
 ![image](https://github.com/Seyidahmadova/Time-Series-Analysis-using-Facebook-Prophet-and-Neural-Prophet-algorithms/assets/80168192/82f0246f-0783-4b1d-9c38-b1e6939513e7)
 
+![image](https://github.com/Seyidahmadova/Time-Series-Analysis-using-Facebook-Prophet-and-Neural-Prophet-algorithms/assets/80168192/d068dd2d-ae25-4a5e-960d-9863f498a675)
+
 ![image](https://github.com/Seyidahmadova/Time-Series-Analysis-using-Facebook-Prophet-and-Neural-Prophet-algorithms/assets/80168192/38ba442a-5615-402a-8e4f-1b846b96614c)
 
 ![image](https://github.com/Seyidahmadova/Time-Series-Analysis-using-Facebook-Prophet-and-Neural-Prophet-algorithms/assets/80168192/81d017bc-ecc7-45fe-a815-6d8215c0279a)
